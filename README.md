@@ -1,4 +1,10 @@
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/stellarlumens29/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/stellarlumens29/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+
 # Thursday 19 November 2026: 42 stories, 6 continents, one front page and a map
+
+Built for [make.fun's "Sum up 19 November's world news in one image" bounty](https://make.fun/bounty/news-image-20261119) ($250 in USDC).
 
 A broadsheet front page that sums up the world's news of Thursday
 19 November 2026 in one image. Forty-two stories from the 19 November
