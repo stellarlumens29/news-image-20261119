@@ -1,0 +1,19 @@
+Build a make.fun news-image-20261119 entry: "Sum up 19 November's world news
+in one image". 42 real stories, all verified against live sources for
+Thursday 19 November 2026, on one code-drawn 1024x1024 newspaper front page.
+No AI-generated imagery anywhere — every illustration is flat SVG drawn in
+code, every letter is real type.
+
+Design to WIN, not just to finish: study the top entries of
+news-image-20261117 and news-image-20261118 first (their full-size images),
+then apply the winning pattern — navy masthead with the date as the dominant
+title, region + by-field count bars, day-in-numbers strip, UTC timeline,
+3 big illustrated leads + 10 small illustrated cards, dotted world map with
+numbered pins, one-line briefs, and a DATE CHECK box naming the big stories
+left out because they broke before Thursday. If story count trades off
+against clarity, choose clarity: the page must stay sharp and legible at
+thumbnail size, where the AI judge compares entries pairwise.
+
+Verify every story against a live source dated 19 Nov 2026; never invent a
+headline. Program: Python 3.13 main.py, stdlib only, copies the held
+assets/entry.png to $MAKEFUN_OUTPUT_DIR/entry.png, deterministic.
